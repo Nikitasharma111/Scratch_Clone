@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scratch-like Animation Project
 
 A web-based animation tool similar to MIT Scratch, built with React.
@@ -58,3 +59,6 @@ npm start
 ```
 
 The app will open at `http://localhost:3000`
+=======
+# Scratch_Clone
+>>>>>>> 84e32520a57f1215580dab7149488d56fffa66ec
